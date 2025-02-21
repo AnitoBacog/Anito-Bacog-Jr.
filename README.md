@@ -1,5 +1,3 @@
-# Anito-Bacog-Jr.
-assignment 
 #include <iostream>
 using namespace std;
 
